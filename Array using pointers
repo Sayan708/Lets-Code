@@ -1,4 +1,4 @@
-//Code to access the element of an Array using pointers.
+//This Code is to access the element of an Array using pointers.
 #include<iostream>
 using namespace std; 
 
